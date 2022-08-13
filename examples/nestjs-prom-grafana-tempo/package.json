@@ -38,7 +38,7 @@
     "nestjs-otel": "^3.0.0",
     "nestjs-pino": "^2.4.0",
     "opentelemetry-node-metrics": "^1.1.0",
-    "pino": "^7.6.2",
+    "pino": "^7.11.0",
     "pino-http": "^6.5.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
