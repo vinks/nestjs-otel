@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^8.0.5",
     "@nestjs/core": "^8.0.5",
-    "@nestjs/platform-express": "^8.0.5",
+    "@nestjs/platform-express": "^8.4.0",
     "@nestjs/platform-fastify": "^8.0.6",
     "@opentelemetry/auto-instrumentations-node": "^0.24.0",
     "@opentelemetry/core": "^0.24.0",
