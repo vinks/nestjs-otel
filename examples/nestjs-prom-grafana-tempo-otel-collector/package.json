@@ -27,7 +27,7 @@
     "@opentelemetry/auto-instrumentations-node": "^0.24.0",
     "@opentelemetry/core": "^0.24.0",
     "@opentelemetry/exporter-collector": "^0.24.0",
-    "@opentelemetry/exporter-collector-grpc": "^0.24.0",
+    "@opentelemetry/exporter-collector-grpc": "^0.25.0",
     "@opentelemetry/exporter-jaeger": "^0.24.0",
     "@opentelemetry/exporter-prometheus": "^0.24.0",
     "@opentelemetry/host-metrics": "^0.24.0",
