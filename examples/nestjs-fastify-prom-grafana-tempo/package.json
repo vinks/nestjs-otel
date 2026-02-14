@@ -21,10 +21,10 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^8.0.5",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^8.0.5",
-    "@nestjs/platform-express": "^8.0.5",
-    "@nestjs/platform-fastify": "^8.0.6",
+    "@nestjs/platform-express": "^10.4.22",
+    "@nestjs/platform-fastify": "^9.0.4",
     "@opentelemetry/auto-instrumentations-node": "^0.24.0",
     "@opentelemetry/core": "^0.24.0",
     "@opentelemetry/exporter-jaeger": "^0.24.0",
